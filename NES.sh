@@ -62,8 +62,6 @@ echo  $white" [11] CREATE VIRUS"
 echo  $purple" ═══════════════════════════════════════════════"
 echo  $white" [12] SEND VIRUS TROJAN"
 echo  $blue" ═══════════════════════════════════════════════"
-echo  $white" [13] SPECIAL APK SPAM WA UNLIMITED"
-echo  $purple" ═══════════════════════════════════════════════"
 echo  $green""
 read -p "[Dark Ice]> " bro;
 
@@ -337,22 +335,6 @@ git clone https://github.com/MrTamfanX/MrDdos
 cd MrDdos
 chmod +x*
 sh Tamfan-Ddos.sh
-clear
-toilet TERIMA | lolcat
-toilet KASIH | lolcat
-fi
-
-
-if [ $bro = 13 ] || [ $bro = 013 ]
-then
-clear
-echo
-sleep 1
-echo  $red" MOHON TUNGGU SEBENTAR "
-sleep 3
-echo  $red"loading......"
-sleep 3
-xdg-open 'http://www.mediafire.com/file/02cg15j48zi6s1r/Labalabi_3.0_JalanTikus.apk/file'
 clear
 toilet TERIMA | lolcat
 toilet KASIH | lolcat
